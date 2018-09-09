@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HydraX", "HydraX\HydraX.csproj", "{9EA6E968-601E-4CAF-87DF-976EC6BE3715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA6E968-601E-4CAF-87DF-976EC6BE3715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA6E968-601E-4CAF-87DF-976EC6BE3715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA6E968-601E-4CAF-87DF-976EC6BE3715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA6E968-601E-4CAF-87DF-976EC6BE3715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {670F78EB-04E6-4002-B8BB-CF5C3E95E42E}
+	EndGlobalSection
+EndGlobal
